@@ -409,7 +409,7 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 
 ### Business Dashboard
 
-![Business Dashboard]()
+![Business Dashboard](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/financial-insights.png)
 
 ### Transaction Management
 
