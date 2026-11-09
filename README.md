@@ -417,7 +417,7 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 
 ### Cash Position & Financial Insights
 
-![Cash insights]()
+![Cash insights](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/cash-position.png)
 
 </div>
 
