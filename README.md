@@ -18,7 +18,7 @@ From Problem Discovery to Product Strategy, Development & Launch.
 <br>
 
 <!-- Replace with the actual project banner -->
-![project Banner]()
+![project Banner](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/cashflowiq-banner.png)
 
 <br>
 
