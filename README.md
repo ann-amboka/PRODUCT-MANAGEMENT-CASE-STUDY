@@ -426,7 +426,7 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 | Prototype | Description | Access |
 |:---|:---|:---|
 | CashflowIQ Product | Interactive financial management interface. | [Open HTML](PHASE-3-EXECUTION/DEVELOPMENT/HTML-PROTOTYPES/cashflowiq-product-prototype.html) |
-| CashflowIQ Website | Customer-facing product landing page. | [Open HTML](PHASE-3-EXECUTION/DEVELOPMENT/HTML-PROTOTYPES/cashflowiq-landing-page.html) |
+| CashflowIQ Website | Customer-facing product landing page. | [Open HTML](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/CashflowIQ-Landing-Page.html) |
 
 **Note:** These are HTML product prototypes and demonstrate the intended product experience. They should not be interpreted as a fully deployed production financial platform.
 
