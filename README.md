@@ -18,7 +18,7 @@ From Problem Discovery to Product Strategy, Development & Launch.
 <br>
 
 <!-- Replace with the actual project banner -->
-<img src="assets/cashflowiq-banner.png" alt="CashflowIQ Product Banner" width="100%">
+![project Banner]()
 
 <br>
 
@@ -100,7 +100,7 @@ The project follows three structured product management phases.
 
 | PHASE 01 | PHASE 02 | PHASE 03 |
 |:---:|:---:|:---:|
-| 🔍 **DISCOVERY** | 📋 **PLANNING** | 🚀 **EXECUTION** |
+|  **DISCOVERY** |  **PLANNING** |  **EXECUTION** |
 | Understand the problem | Define the solution | Build and launch |
 | Customer Research | Product Strategy | Development |
 | Problem Validation | Product Requirements | Product Prototypes |
@@ -265,7 +265,7 @@ The prototype was tested with **10 customers**, and feedback was incorporated in
 
 <details>
 <summary><b>04. Product Design</b></summary>
-
+(I am not a designer; hence, with the help of AI, I developed the prototypes)
 - Wireframes
 - UI/UX Designs
 - User Flows
@@ -409,15 +409,15 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 
 ### Business Dashboard
 
-<img src="PHASE-3-EXECUTION/DEVELOPMENT/DESIGNS/dashboard.png" width="100%" alt="CashflowIQ Dashboard">
+![Business Dashboard]()
 
 ### Transaction Management
 
-<img src="PHASE-3-EXECUTION/DEVELOPMENT/DESIGNS/transactions.png" width="100%" alt="Transaction Management">
+![Transaction mgt]()
 
 ### Cash Position & Financial Insights
 
-<img src="PHASE-3-EXECUTION/DEVELOPMENT/DESIGNS/cash-position.png" width="100%" alt="Cash Position and Financial Insights">
+![Cash insights]()
 
 </div>
 
@@ -439,79 +439,12 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 | Product Management | Product Strategy, PRDs, Roadmaps, Prioritisation |
 | Data Analysis | SQL, Excel |
 | Data Visualisation | Power BI |
-| Product Design | Wireframing, UI/UX Design, Prototyping |
-| Web Development | HTML, CSS, JavaScript |
+| Product Design | AI, Prototyping |
 | Documentation | Markdown |
-| Version Control | Git, GitHub |
 | Research | Customer Interviews, Competitive Analysis |
 
 ---
 
-# 📁 REPOSITORY STRUCTURE
-
-The repository is organised around the three product development phases to maintain a clear separation of research, planning and execution deliverables.
-
-```text
-CASHFLOWIQ/
-│
-├── README.md
-│
-├── assets/
-│   └── cashflowiq-banner.png
-│
-├── PHASE-1-DISCOVERY/
-│   ├── 01-PROBLEM-DEFINITION/
-│   ├── 02-CUSTOMER-RESEARCH/
-│   ├── 03-CUSTOMER-INTERVIEWS/
-│   ├── 04-JOBS-TO-BE-DONE/
-│   ├── 05-CUSTOMER-JOURNEY/
-│   ├── 06-COMPETITIVE-ANALYSIS/
-│   ├── 07-USER-BEHAVIOUR-ANALYSIS/
-│   ├── 08-DATA-ANALYSIS/
-│   └── 09-DISCOVERY-SUMMARY/
-│
-├── PHASE-2-PLANNING/
-│   ├── 01-PRODUCT-VISION/
-│   ├── 02-BIG-S-STRATEGY/
-│   ├── 03-PRODUCT-REQUIREMENTS/
-│   ├── 04-PRODUCT-ROADMAP/
-│   ├── 05-JOBS-TO-BE-DONE/
-│   ├── 06-FEATURE-PRIORITISATION/
-│   ├── 07-USER-STORIES/
-│   ├── 08-ACCEPTANCE-CRITERIA/
-│   ├── 09-PROTOTYPES/
-│   ├── 10-CUSTOMER-FEEDBACK/
-│   └── 11-PLANNING-SUMMARY/
-│
-├── PHASE-3-EXECUTION/
-│   │
-│   ├── DEVELOPMENT/
-│   │   ├── HTML-PROTOTYPES/
-│   │   │   ├── cashflowiq-product-prototype.html
-│   │   │   └── cashflowiq-landing-page.html
-│   │   │
-│   │   ├── DESIGNS/
-│   │   ├── PRODUCT-ASSETS/
-│   │   └── DEVELOPMENT-SUMMARY/
-│   │
-│   └── LAUNCH/
-│       ├── 01-PRODUCT-MESSAGING/
-│       ├── 02-WEBSITE-AND-LANDING-PAGE/
-│       ├── 03-CUSTOMER-DOCUMENTATION/
-│       ├── 04-TUTORIALS-AND-WEBINARS/
-│       ├── 05-ANNOUNCEMENTS/
-│       ├── 06-EXTERNAL-ANNOUNCEMENT/
-│       ├── 07-CUSTOMER-MANAGEMENT/
-│       └── 08-LAUNCH-SUMMARY/
-│
-├── PROJECT-WALKTHROUGH/
-│   ├── Video-Link.md
-│   └── Supporting-Assets/
-│
-└── LICENSE
-```
-
----
 
 # 🎬 PROJECT WALKTHROUGH
 
