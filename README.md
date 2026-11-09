@@ -403,7 +403,7 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 
 ## Product Interface
 
-<!-- Replace these paths with actual committed screenshots -->
+![Product interface](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/product-dashboard.png)
 
 <div align="center">
 
