@@ -413,7 +413,7 @@ The project includes HTML prototypes and visual design assets demonstrating the 
 
 ### Transaction Management
 
-![Transaction mgt]()
+![Transaction mgt](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/transactions-screen.png)
 
 ### Cash Position & Financial Insights
 
