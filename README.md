@@ -195,7 +195,7 @@ Employee accountability was also considered an important supporting capability.
 
 **Phase Outcome:** A clearly defined product opportunity supported by customer understanding, market analysis and prioritised business problems.
 
-[📁 Explore Phase 1 – Discovery Google SHEET](PHASE-1-DISCOVERY/)
+![📁 Explore Phase 1 – Discovery Google SHEET](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/CASHFLOWIQ%20RESEARCCH_CUSTOMER%20INTERVIEWS%2CJTBD.xlsx)
 
 ---
 
