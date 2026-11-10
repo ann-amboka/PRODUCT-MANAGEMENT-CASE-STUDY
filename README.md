@@ -286,7 +286,7 @@ The prototype was tested with **10 customers**, and feedback was incorporated in
 **Phase Outcome:** A defined product strategy, prioritised requirements, structured roadmap and customer-tested solution concept.
 
 ![📁 Explore Phase 2 – Product Strategy](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/CASHFLOWIQ_%20BIG%20S%20PRODUCT%20STRATEGY.pdf)
-[📁 Explore Phase 2 – PRD document](PHASE-2-PLANNING/)
+![📁 Explore Phase 2 – PRD document](https://github.com/ann-amboka/PRODUCT-MANAGEMENT-CASE-STUDY/blob/main/CashflowIQ_Product_Requirements_Document.docx)
 ---
 
 # 🚀 PHASE 3 – EXECUTION
