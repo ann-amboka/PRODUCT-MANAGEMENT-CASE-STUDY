@@ -195,7 +195,7 @@ Employee accountability was also considered an important supporting capability.
 
 **Phase Outcome:** A clearly defined product opportunity supported by customer understanding, market analysis and prioritised business problems.
 
-[📁 Explore Phase 1 – Discovery](PHASE-1-DISCOVERY/)
+[📁 Explore Phase 1 – Discovery Google SHEET](PHASE-1-DISCOVERY/)
 
 ---
 
@@ -285,8 +285,8 @@ The prototype was tested with **10 customers**, and feedback was incorporated in
 
 **Phase Outcome:** A defined product strategy, prioritised requirements, structured roadmap and customer-tested solution concept.
 
-[📁 Explore Phase 2 – Planning](PHASE-2-PLANNING/)
-
+[📁 Explore Phase 2 – Product Strategy](PHASE-2-PLANNING/)
+[📁 Explore Phase 2 – PRD document](PHASE-2-PLANNING/)
 ---
 
 # 🚀 PHASE 3 – EXECUTION
@@ -346,8 +346,6 @@ Reconciliation and flagging are handled as separate statuses to maintain transac
 - Product Designs and Visual Assets.
 - Product Landing Page.
 
-[📁 Explore Development](PHASE-3-EXECUTION/DEVELOPMENT/)
-
 ---
 
 ## 3.2 LAUNCH
@@ -392,8 +390,6 @@ Planned acquisition channels:
 - Customer Onboarding Strategy.
 - Customer Management Plan.
 - Launch Summary.
-
-[📁 Explore Launch](PHASE-3-EXECUTION/LAUNCH/)
 
 ---
 
